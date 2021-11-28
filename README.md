@@ -1,7 +1,7 @@
 # Quick Rent
 Android mobile app which simulates Car Rental - **Mini Project**
 
-**Software:** Android Studio=<br>
+**Software:** Android Studio<br>
 **Language:** Java<br>
 **Designed By:** =Chetan Singh, Srijan Aggarwal and Manendra Singh <br>
 **Description**<br>
