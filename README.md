@@ -3,8 +3,8 @@ Android mobile app which simulates Car Rental - **Mini Project**
 
 **Software:** Android Studio<br>
 **Language:** Java<br>
-**Designed By:** =Chetan Singh, Srijan Aggarwal and Manendra Singh <br>
-**Supervised By:** =Akash choudhary <br>
+**Designed By:** Chetan Singh, Srijan Aggarwal and Manendra Singh <br>
+**Supervised By:** Akash choudhary <br>
 
 
 **Description**<br>
