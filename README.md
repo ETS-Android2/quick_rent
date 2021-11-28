@@ -1,13 +1,12 @@
-# Car-Rental-Mobile-App
-Android mobile app which simulates Car Rental - **Side Project**
+# Quick Rent
+Android mobile app which simulates Car Rental - **Mini Project**
 
-**Software:** Android Studio, Adobe XD<br>
+**Software:** Android Studio=<br>
 **Language:** Java<br>
-**Designed By:** Jenil Vekaria
-
+**Designed By:** =Chetan Singh, Srijan Aggarwal and Manendra Singh <br>
 **Description**<br>
-For CPS510-Database System we chose to do Car Rental topic and we designed a Java GUI for it. 
-However, I wanted it take it bit furthur and decided to build a mobile app for it, so here are the screenshots below of my mobile app.
+Screenshot of Application.
+
 <br><br>
 
 <img src="Screenshots/login_page.png" width="425px"/> <img src="Screenshots/category_page.png" width="425px"/> 
